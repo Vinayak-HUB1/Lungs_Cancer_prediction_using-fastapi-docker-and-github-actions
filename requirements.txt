@@ -1,0 +1,8 @@
+pandas
+numpy
+fastapi
+uvicorn 
+sklearn
+matplotlib
+seaborn
+gunicorn

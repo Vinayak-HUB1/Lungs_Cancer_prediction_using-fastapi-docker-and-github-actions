@@ -1,0 +1,6 @@
+Processed_data
+LOGS
+.gitignore
+inference.ipynb
+lung_cancer_data.csv
+model.py

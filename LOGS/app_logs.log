@@ -1,0 +1,30 @@
+[2022-07-30 20:06:40,318: INFO: server]: >>>>>>>>>  Started server process [15188]
+[2022-07-30 20:06:40,324: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:06:40,324: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:07:20,991: INFO: server]: >>>>>>>>>  Started server process [13140]
+[2022-07-30 20:07:21,004: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:07:21,004: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:07:31,634: INFO: server]: >>>>>>>>>  Started server process [12964]
+[2022-07-30 20:07:31,644: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:07:31,645: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:07:37,182: INFO: server]: >>>>>>>>>  Started server process [14492]
+[2022-07-30 20:07:37,193: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:07:37,213: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:07:41,362: INFO: server]: >>>>>>>>>  Started server process [1452]
+[2022-07-30 20:07:41,380: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:07:41,381: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:08:28,610: INFO: server]: >>>>>>>>>  Started server process [18264]
+[2022-07-30 20:08:28,638: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:08:28,706: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:09:21,542: INFO: server]: >>>>>>>>>  Started server process [22956]
+[2022-07-30 20:09:21,551: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-07-30 20:09:21,552: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-07-30 20:09:39,690: INFO: main]: >>>>>>>>>  Prediction is 1
+[2022-07-30 20:09:39,692: INFO: main]: >>>>>>>>>  The result for the features [[1, 26, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2]] is Patient is more likely to have lungs cancer
+[2022-08-27 10:16:12,753: INFO: server]: >>>>>>>>>  Started server process [25320]
+[2022-08-27 10:16:12,755: INFO: on]: >>>>>>>>>  Waiting for application startup.
+[2022-08-27 10:16:12,755: INFO: on]: >>>>>>>>>  Application startup complete.
+[2022-08-27 10:16:25,602: INFO: main]: >>>>>>>>>  Prediction is 1
+[2022-08-27 10:16:25,602: INFO: main]: >>>>>>>>>  The result for the features [[1, 26, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2]] is Patient is more likely to have lungs cancer
+[2022-08-27 10:16:54,931: INFO: main]: >>>>>>>>>  Prediction is 0
+[2022-08-27 10:16:54,931: INFO: main]: >>>>>>>>>  The result for the features [[1, 26, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2]] is Patient is more likely to not have lungs cancer

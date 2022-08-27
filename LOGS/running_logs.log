@@ -1,0 +1,66 @@
+[2022-07-30 16:24:58,052: INFO: model]: >>>>>>>>>  categorical features converted into numerical format
+[2022-07-30 16:24:58,054: INFO: model]: >>>>>>>>>  data is splitted in training and test data
+[2022-07-30 16:24:58,079: INFO: model]: >>>>>>>>>  Model Training is completed
+[2022-07-30 16:24:58,082: INFO: model]: >>>>>>>>>  predictions are [0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0]
+[2022-07-30 16:24:58,086: INFO: model]: >>>>>>>>>  model accuracy score is = 0.8928571428571429 
+ mean_absolute_error_ is = 0.10714285714285714 
+ confusion_matrix_ is 
+ [[ 6  3]
+ [ 3 44]] 
+ f1_score_ is  = 0.9361702127659575
+[2022-07-30 16:31:56,642: INFO: model]: >>>>>>>>>  categorical features converted into numerical format
+[2022-07-30 16:31:56,676: INFO: model]: >>>>>>>>>  data is splitted in training and test data
+[2022-07-30 16:31:56,705: INFO: model]: >>>>>>>>>  Model Training is completed
+[2022-07-30 16:31:56,708: INFO: model]: >>>>>>>>>  predictions are [0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0]
+[2022-07-30 16:31:56,711: INFO: model]: >>>>>>>>>  model accuracy score is = 0.8928571428571429 
+ mean_absolute_error_ is = 0.10714285714285714 
+ confusion_matrix_ is 
+ [[ 6  3]
+ [ 3 44]] 
+ f1_score_ is  = 0.9361702127659575
+[2022-07-30 19:00:10,301: INFO: model]: >>>>>>>>>  categorical features converted into numerical format
+[2022-07-30 19:00:10,405: INFO: model]: >>>>>>>>>  data is splitted in training and test data
+[2022-07-30 19:00:10,445: INFO: model]: >>>>>>>>>  Model Training is completed
+[2022-07-30 19:00:10,449: INFO: model]: >>>>>>>>>  predictions are [0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0]
+[2022-07-30 19:00:10,455: INFO: model]: >>>>>>>>>  model accuracy score is = 0.8928571428571429 
+ mean_absolute_error_ is = 0.10714285714285714 
+ confusion_matrix_ is 
+ [[ 6  3]
+ [ 3 44]] 
+ f1_score_ is  = 0.9361702127659575
+[2022-07-30 19:00:14,583: INFO: model]: >>>>>>>>>  categorical features converted into numerical format
+[2022-07-30 19:00:14,692: INFO: model]: >>>>>>>>>  data is splitted in training and test data
+[2022-07-30 19:00:14,731: INFO: model]: >>>>>>>>>  Model Training is completed
+[2022-07-30 19:00:14,735: INFO: model]: >>>>>>>>>  predictions are [0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0]
+[2022-07-30 19:00:14,740: INFO: model]: >>>>>>>>>  model accuracy score is = 0.8928571428571429 
+ mean_absolute_error_ is = 0.10714285714285714 
+ confusion_matrix_ is 
+ [[ 6  3]
+ [ 3 44]] 
+ f1_score_ is  = 0.9361702127659575
+[2022-07-30 19:00:31,441: INFO: model]: >>>>>>>>>  categorical features converted into numerical format
+[2022-07-30 19:00:31,452: INFO: model]: >>>>>>>>>  data is splitted in training and test data
+[2022-07-30 19:00:31,491: INFO: model]: >>>>>>>>>  Model Training is completed
+[2022-07-30 19:00:31,494: INFO: model]: >>>>>>>>>  predictions are [0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0]
+[2022-07-30 19:00:31,501: INFO: model]: >>>>>>>>>  model accuracy score is = 0.8928571428571429 
+ mean_absolute_error_ is = 0.10714285714285714 
+ confusion_matrix_ is 
+ [[ 6  3]
+ [ 3 44]] 
+ f1_score_ is  = 0.9361702127659575
+[2022-07-30 19:29:49,046: INFO: model]: >>>>>>>>>  categorical features converted into numerical format
+[2022-07-30 19:29:49,053: INFO: model]: >>>>>>>>>  data is splitted in training and test data
+[2022-07-30 19:29:49,089: INFO: model]: >>>>>>>>>  Model Training is completed
+[2022-07-30 19:29:49,218: INFO: model]: >>>>>>>>>  predictions are [0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0]
+[2022-07-30 19:29:49,222: INFO: model]: >>>>>>>>>  model accuracy score is = 0.8928571428571429 
+ mean_absolute_error_ is = 0.10714285714285714 
+ confusion_matrix_ is 
+ [[ 6  3]
+ [ 3 44]] 
+ f1_score_ is  = 0.9361702127659575
