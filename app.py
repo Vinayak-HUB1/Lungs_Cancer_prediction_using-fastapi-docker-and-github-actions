@@ -25,6 +25,7 @@ def home():
     return "service is live"
 
 
+
 @app.post('/lungs_cancer_prediction')
 def prediction(input:data_file):
     """_summary_:
