@@ -10,4 +10,4 @@ sklearn,fastapi,pandas,numpy,matplotlib,docker,github-actions
 here i have created a machine learning model using sklearn which can predict weather the patient is having a lungs cancer or not.where i have used fastapi to build a application,docker for containerization and github-actions for continous integration and continous devlopment and heroku is used as deployment-server.
 
 # glimpse of output
-![alt text](https://github.com/Vinayak-HUB1/Lung_Cancer_prediction-using-fastapi-and-docker/blob/master/output.png)
+![alt text](https://github.com/Vinayak-HUB1/Lung_Cancer_prediction_using-fastapi-docker-and-github-actions/blob/master/output.png)
