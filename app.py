@@ -29,6 +29,7 @@ def home():
 def prediction(input:data_file):
     """_summary_:
 
+
             Args:
                 input (data_file): datafile containing all the features in numeric form as follows
                 GENDER = 1 represents male, 0 represents female
