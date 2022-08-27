@@ -21,6 +21,7 @@ logging.basicConfig(filename=os.path.join(LOG_DIR, "running_logs.log"),    level
 
 
 
+
 def main(data_path):
         data = pd.read_csv(data_path)
         data = data.drop_duplicates()
